@@ -13,14 +13,18 @@
   </template>
   <template name="todo" value="// todo" description="todo tpl" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="PHP Expression" value="true" />
-      <option name="PHP Statement" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="%%" value="&lt;% $CURSOR$ %&gt;$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="// todo" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
