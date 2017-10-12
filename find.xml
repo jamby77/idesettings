@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>sal.xml</mask>
-      <mask>sale.xml</mask>
-      <mask>sales.xml</mask>
-      <mask>*</mask>
-      <mask>*.ya</mask>
-      <mask>*.yam</mask>
-      <mask>*.yaml</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.y</mask>
@@ -27,13 +20,20 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
