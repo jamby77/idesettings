@@ -1,0 +1,6 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+</keymap>
