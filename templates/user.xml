@@ -22,7 +22,7 @@
       <option name="HTML_TEXT" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="// todo" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="// todo" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
