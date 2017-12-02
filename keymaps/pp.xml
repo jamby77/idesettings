@@ -2,12 +2,6 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
-  <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl less" />
   </action>
@@ -15,20 +9,14 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl less" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl alt less" />
   </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="shift alt u" />
-  </action>
-  <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="hg4idea.QPushAction" />
 </keymap>
