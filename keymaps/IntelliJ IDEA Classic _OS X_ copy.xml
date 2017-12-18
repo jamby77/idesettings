@@ -26,4 +26,13 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
 </keymap>
