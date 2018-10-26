@@ -3,6 +3,7 @@
     <option name="version" value="2.10.5.2" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="009688" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="indicatorStyle" value="Dot" />
