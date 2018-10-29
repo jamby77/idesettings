@@ -4,7 +4,7 @@
     <property name="created">2018-10-29T11:13:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-10-29T21:26:55</property>
+    <property name="modified">2018-10-29T22:32:16</property>
     <property name="originalScheme">Night Owl Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -19,13 +19,13 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="addb67" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
