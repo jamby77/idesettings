@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.10.6" />
-    <option name="selectedTheme" value="LIGHTER" />
+    <option name="selectedTheme" value="nightowl-carbon" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="82AAFF" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
