@@ -4,7 +4,7 @@
     <property name="created">2018-10-29T11:13:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-10-29T22:32:16</property>
+    <property name="modified">2018-11-10T20:10:24</property>
     <property name="originalScheme">Night Owl Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -599,7 +599,8 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="7fdbca" />
+        <option name="FOREGROUND" value="addb67" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -670,7 +671,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="addb67" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
