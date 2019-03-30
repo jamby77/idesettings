@@ -18,6 +18,9 @@
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
