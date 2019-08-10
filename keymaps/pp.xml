@@ -27,6 +27,9 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
