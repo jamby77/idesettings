@@ -5,8 +5,12 @@
     </lookup>
   </component>
   <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
+    <instances>
+      <instance uuid="2fca960b-6bf9-37b5-b517-26fada70b933" baseUri="https://stash.pros.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="stash.pros.com" port="-1" path="/" uuid="2fca960b-6bf9-37b5-b517-26fada70b933" />
+    </lookup>
   </component>
   <component name="Instance" id="8418e1b3-97b0-46d1-a54b-171dd6f4fcb8" version="8.0.101" />
 </application>
