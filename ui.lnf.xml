@@ -3,6 +3,6 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
